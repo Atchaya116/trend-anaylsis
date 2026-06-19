@@ -1,0 +1,1001 @@
+Organization,Industry,Company_Size,Employees,AI_Tool,Adoption_Year,Productivity_Gain,Satisfaction,AI_Investment,Cost_Savings
+Org_1,Manufacturing,Small,122,ChatGPT,2025,35.44,7.6,11265,14851
+Org_2,Manufacturing,Medium,530,Gemini,2024,23.85,6.0,66023,132788
+Org_3,Healthcare,Small,72,ChatGPT,2025,25.31,5.1,44188,86806
+Org_4,Manufacturing,Large,4385,Midjourney,2024,35.43,6.6,700186,1369979
+Org_5,IT,Large,8849,GitHub Copilot,2020,32.22,6.3,528947,1020539
+Org_6,IT,Small,150,ChatGPT,2025,22.32,8.1,19502,21814
+Org_7,Healthcare,Small,108,Midjourney,2025,24.0,4.6,28483,36197
+Org_8,Retail,Small,27,Midjourney,2020,39.47,9.5,31531,42728
+Org_9,Healthcare,Large,8555,Midjourney,2023,57.78,5.1,638974,1456348
+Org_10,Education,Small,63,GitHub Copilot,2025,41.94,9.4,37606,89901
+Org_11,Retail,Medium,655,ChatGPT,2024,35.64,9.1,74300,109955
+Org_12,Healthcare,Large,5887,GitHub Copilot,2023,30.26,5.7,716588,929625
+Org_13,Finance,Medium,214,Gemini,2022,29.56,6.4,183767,203564
+Org_14,Healthcare,Medium,338,ChatGPT,2022,27.25,8.3,111858,243825
+Org_15,IT,Medium,972,ChatGPT,2025,36.62,9.1,163569,201774
+Org_16,Finance,Medium,702,Midjourney,2023,32.41,6.0,60965,142785
+Org_17,Finance,Small,120,GitHub Copilot,2025,34.68,5.4,30446,35214
+Org_18,Retail,Small,34,GitHub Copilot,2021,37.36,6.6,46523,87862
+Org_19,IT,Large,7019,Claude,2025,24.66,8.5,364899,883053
+Org_20,Manufacturing,Large,4157,Claude,2025,15.05,7.7,642296,801387
+Org_21,Retail,Small,47,ChatGPT,2025,43.72,9.4,49262,116729
+Org_22,IT,Large,2306,Gemini,2023,31.76,8.9,779304,1189758
+Org_23,Finance,Small,174,Gemini,2023,26.04,6.0,39766,53111
+Org_24,IT,Medium,871,Claude,2024,27.11,8.2,101005,248522
+Org_25,Education,Large,2291,Claude,2023,10.81,5.7,293264,432122
+Org_26,Healthcare,Medium,201,Claude,2024,29.73,4.3,140084,221766
+Org_27,Healthcare,Large,7528,Claude,2022,29.65,9.9,680671,1313542
+Org_28,Manufacturing,Large,4510,ChatGPT,2025,18.31,5.4,892517,1441322
+Org_29,Retail,Large,3931,Gemini,2025,42.18,8.8,555528,860564
+Org_30,Retail,Large,3511,Gemini,2020,26.11,7.5,518394,730073
+Org_31,Healthcare,Medium,545,GitHub Copilot,2024,36.49,5.0,134896,223468
+Org_32,Finance,Large,7694,Midjourney,2025,17.77,4.8,208155,443224
+Org_33,Healthcare,Large,6534,Claude,2025,38.14,8.9,307512,560683
+Org_34,IT,Small,132,ChatGPT,2022,17.69,4.6,25932,61214
+Org_35,Finance,Medium,208,Claude,2023,38.16,9.1,170885,374550
+Org_36,IT,Small,171,Midjourney,2025,34.72,9.6,10539,24850
+Org_37,Manufacturing,Medium,453,Gemini,2020,32.93,4.0,71357,133311
+Org_38,Manufacturing,Medium,362,GitHub Copilot,2024,22.86,5.3,140272,157848
+Org_39,Manufacturing,Medium,597,Gemini,2023,37.7,9.1,136416,208891
+Org_40,Finance,Small,195,Gemini,2021,42.68,6.2,24830,36019
+Org_41,Manufacturing,Large,2693,Midjourney,2025,38.79,7.8,773665,1230212
+Org_42,Finance,Large,8022,Midjourney,2024,27.6,5.2,371836,668884
+Org_43,Education,Large,8683,GitHub Copilot,2020,19.29,9.6,505628,754085
+Org_44,Finance,Small,25,Gemini,2023,34.82,4.1,23711,37061
+Org_45,Retail,Medium,501,ChatGPT,2025,21.53,9.1,168015,298964
+Org_46,IT,Small,37,Gemini,2024,14.85,9.6,5569,13376
+Org_47,Manufacturing,Small,193,GitHub Copilot,2021,30.58,9.3,5784,13234
+Org_48,Retail,Small,156,GitHub Copilot,2025,18.57,6.2,10801,24119
+Org_49,Education,Large,6986,GitHub Copilot,2023,22.67,4.0,982355,1974483
+Org_50,Retail,Medium,711,Midjourney,2023,31.95,4.3,137922,216977
+Org_51,IT,Large,6919,ChatGPT,2024,29.6,7.3,905660,2059929
+Org_52,Manufacturing,Large,8509,Claude,2023,24.65,4.2,384078,616163
+Org_53,Manufacturing,Medium,643,ChatGPT,2023,24.59,9.8,137235,312735
+Org_54,Finance,Medium,549,Gemini,2024,37.77,7.8,123523,158831
+Org_55,Education,Small,133,Claude,2024,40.48,5.6,33251,71212
+Org_56,Retail,Small,109,Midjourney,2020,23.71,9.8,6150,12757
+Org_57,IT,Large,2664,Claude,2022,25.25,7.3,220056,445454
+Org_58,Manufacturing,Large,4343,Midjourney,2024,23.47,7.9,741252,1450192
+Org_59,Healthcare,Small,95,Claude,2024,23.2,4.6,35445,87595
+Org_60,Healthcare,Large,7617,Midjourney,2024,27.37,6.8,655968,1148300
+Org_61,IT,Large,5452,Claude,2023,45.43,4.3,633374,710282
+Org_62,Education,Small,166,ChatGPT,2024,43.23,9.1,14540,29916
+Org_63,Finance,Medium,215,Gemini,2021,27.98,7.5,199143,407851
+Org_64,IT,Small,182,Midjourney,2024,30.61,6.7,40506,91093
+Org_65,IT,Small,31,GitHub Copilot,2023,32.81,4.4,30351,49762
+Org_66,IT,Large,1417,Gemini,2023,23.77,7.0,282745,586818
+Org_67,Healthcare,Large,1412,GitHub Copilot,2020,34.49,7.3,763044,1641201
+Org_68,Retail,Small,196,Claude,2025,29.21,4.8,10104,22097
+Org_69,Retail,Large,7806,GitHub Copilot,2025,27.82,8.5,837144,1200071
+Org_70,Healthcare,Large,6917,Gemini,2025,40.99,7.0,378031,622036
+Org_71,Manufacturing,Medium,596,GitHub Copilot,2025,33.24,9.7,104098,186359
+Org_72,Manufacturing,Large,9335,Claude,2023,28.7,5.8,420184,787922
+Org_73,Education,Large,6588,GitHub Copilot,2025,36.24,4.5,352617,868829
+Org_74,IT,Small,161,Gemini,2024,36.28,6.6,43102,80354
+Org_75,IT,Medium,857,ChatGPT,2025,38.89,9.2,51542,87442
+Org_76,Retail,Large,2191,Gemini,2021,34.96,8.9,717313,870737
+Org_77,Retail,Small,184,ChatGPT,2022,40.61,9.3,31256,75831
+Org_78,IT,Large,5312,ChatGPT,2024,32.37,6.1,944699,1149605
+Org_79,Healthcare,Small,127,ChatGPT,2024,38.58,4.7,49482,72003
+Org_80,Finance,Small,145,Midjourney,2021,28.4,4.7,18116,40795
+Org_81,Healthcare,Medium,200,GitHub Copilot,2024,24.6,6.9,73960,171294
+Org_82,Healthcare,Large,6029,Gemini,2023,15.8,8.8,704492,1731521
+Org_83,Manufacturing,Large,2852,Midjourney,2023,28.32,8.2,838353,1117274
+Org_84,Education,Small,68,GitHub Copilot,2024,32.85,6.7,47356,98296
+Org_85,Education,Small,22,ChatGPT,2025,51.9,5.7,41487,66159
+Org_86,IT,Large,1539,GitHub Copilot,2021,21.92,9.8,744447,1291271
+Org_87,Finance,Medium,344,GitHub Copilot,2023,47.28,5.6,77532,184161
+Org_88,Education,Large,4324,ChatGPT,2025,15.07,6.5,663556,1299761
+Org_89,Manufacturing,Large,1009,ChatGPT,2025,29.26,8.9,967214,1267614
+Org_90,IT,Medium,481,Claude,2023,27.18,9.8,122474,232298
+Org_91,IT,Small,180,Gemini,2024,14.06,4.3,34189,70716
+Org_92,Healthcare,Large,6989,GitHub Copilot,2025,24.01,7.5,400244,969659
+Org_93,Healthcare,Medium,657,Gemini,2023,22.6,5.5,103932,202526
+Org_94,Finance,Medium,645,Gemini,2025,23.51,8.5,142193,227711
+Org_95,IT,Medium,271,Midjourney,2020,5.0,9.0,87131,195429
+Org_96,IT,Small,152,Midjourney,2021,27.32,8.8,27928,35960
+Org_97,IT,Small,66,Gemini,2023,35.94,8.8,20781,40817
+Org_98,Healthcare,Medium,937,GitHub Copilot,2023,42.13,7.5,188013,352851
+Org_99,Education,Small,198,GitHub Copilot,2025,32.0,8.7,9637,18993
+Org_100,IT,Small,70,GitHub Copilot,2024,8.29,8.8,24856,44466
+Org_101,IT,Medium,707,Claude,2021,31.28,6.1,154573,307099
+Org_102,Education,Medium,951,GitHub Copilot,2023,25.19,7.2,187162,242254
+Org_103,Manufacturing,Large,8687,Midjourney,2022,22.48,9.2,626650,1274970
+Org_104,Manufacturing,Large,7777,GitHub Copilot,2022,46.74,8.9,680721,1014292
+Org_105,Healthcare,Small,80,Claude,2020,46.83,6.1,32693,52635
+Org_106,Healthcare,Small,97,Midjourney,2023,53.82,5.9,28321,62849
+Org_107,Manufacturing,Large,6240,ChatGPT,2024,17.74,6.3,859792,1279051
+Org_108,Manufacturing,Medium,456,ChatGPT,2021,30.42,7.6,181374,293583
+Org_109,IT,Large,9717,GitHub Copilot,2024,23.73,8.5,466765,609984
+Org_110,Retail,Large,6126,Gemini,2024,8.08,9.1,648874,1197145
+Org_111,IT,Large,9172,ChatGPT,2025,18.3,4.6,631734,1028587
+Org_112,Healthcare,Small,58,Midjourney,2023,13.41,5.3,9632,22603
+Org_113,IT,Large,7168,Gemini,2024,29.92,4.5,226069,434409
+Org_114,Education,Small,27,Midjourney,2024,44.8,7.4,20913,31312
+Org_115,Healthcare,Large,3739,Midjourney,2024,10.86,9.9,465956,1121634
+Org_116,IT,Large,2460,ChatGPT,2021,39.41,4.9,664374,1184534
+Org_117,Education,Large,7986,Midjourney,2021,37.97,4.0,587952,1050698
+Org_118,Retail,Large,6560,Claude,2025,31.45,7.2,444761,663570
+Org_119,Finance,Small,63,Claude,2022,36.41,7.2,7048,13777
+Org_120,Healthcare,Medium,519,GitHub Copilot,2021,21.85,7.0,82254,145885
+Org_121,Healthcare,Large,3026,Claude,2024,22.52,7.3,603081,1499225
+Org_122,Education,Medium,212,ChatGPT,2024,8.61,4.5,182414,374697
+Org_123,IT,Medium,984,Midjourney,2021,53.9,8.8,92078,221110
+Org_124,Retail,Small,81,ChatGPT,2025,23.96,6.5,6908,14667
+Org_125,Retail,Small,156,Midjourney,2022,36.68,8.3,10951,24027
+Org_126,Finance,Small,30,Claude,2025,28.11,5.2,28325,63878
+Org_127,IT,Small,184,Claude,2025,32.9,6.2,19060,36664
+Org_128,Finance,Small,165,GitHub Copilot,2025,50.75,6.6,33173,78272
+Org_129,Retail,Large,8804,Claude,2023,30.18,5.4,889376,1465758
+Org_130,Retail,Large,5033,Midjourney,2024,46.76,9.4,735590,929533
+Org_131,IT,Large,6765,Midjourney,2023,39.16,5.0,467552,863496
+Org_132,Finance,Large,1922,ChatGPT,2025,40.9,4.9,232154,497163
+Org_133,Healthcare,Medium,453,ChatGPT,2022,29.48,8.5,96197,216420
+Org_134,IT,Large,8326,Midjourney,2023,48.41,6.7,502775,906605
+Org_135,Healthcare,Medium,847,Claude,2022,37.57,8.3,197550,382816
+Org_136,Retail,Small,183,Claude,2024,20.78,5.5,39884,90038
+Org_137,Healthcare,Large,7166,Claude,2024,31.81,7.7,388014,821244
+Org_138,Retail,Medium,882,Claude,2025,56.44,7.4,110279,124861
+Org_139,IT,Small,146,GitHub Copilot,2022,48.82,6.5,44964,56022
+Org_140,Finance,Small,60,ChatGPT,2025,43.45,6.7,16053,22960
+Org_141,Finance,Small,109,Claude,2025,30.56,7.5,7708,12571
+Org_142,Healthcare,Large,9393,GitHub Copilot,2025,40.94,4.0,213224,268656
+Org_143,Retail,Large,1536,GitHub Copilot,2025,29.35,6.9,498512,958087
+Org_144,Retail,Small,127,ChatGPT,2025,38.07,5.5,6990,9308
+Org_145,IT,Large,4572,Gemini,2025,40.8,7.8,865755,1210111
+Org_146,Retail,Small,68,Claude,2022,11.55,9.8,42011,70598
+Org_147,Retail,Large,6182,Gemini,2025,55.73,4.4,333554,464930
+Org_148,Education,Small,81,ChatGPT,2022,30.59,5.1,25908,42199
+Org_149,Finance,Medium,343,ChatGPT,2024,43.89,6.6,76737,137805
+Org_150,Finance,Small,198,Gemini,2022,5.0,5.1,17342,42046
+Org_151,Manufacturing,Small,51,Claude,2023,30.64,8.8,21438,28268
+Org_152,Retail,Medium,377,Midjourney,2025,39.52,6.4,160904,226997
+Org_153,Manufacturing,Small,91,Gemini,2021,24.75,7.9,40822,86099
+Org_154,Healthcare,Small,54,GitHub Copilot,2022,34.89,8.3,23922,58554
+Org_155,IT,Small,184,Claude,2022,13.07,4.5,9425,11495
+Org_156,Education,Large,3198,Gemini,2025,20.99,4.7,344931,689895
+Org_157,Finance,Small,101,ChatGPT,2025,24.77,5.6,39177,63007
+Org_158,Education,Small,138,GitHub Copilot,2023,40.49,7.7,18221,39783
+Org_159,Healthcare,Small,156,GitHub Copilot,2023,32.11,8.6,34975,44066
+Org_160,Finance,Medium,357,Gemini,2024,29.03,9.4,85954,156216
+Org_161,Healthcare,Small,28,Gemini,2024,16.52,4.8,46401,109543
+Org_162,Education,Medium,809,Claude,2023,37.43,4.1,111268,249360
+Org_163,IT,Medium,240,Claude,2023,50.06,9.0,51622,64486
+Org_164,Manufacturing,Large,1341,GitHub Copilot,2022,37.18,9.4,675781,1436074
+Org_165,Manufacturing,Large,9801,Claude,2024,19.96,9.5,497881,829536
+Org_166,IT,Small,141,Claude,2023,35.1,6.1,43709,93242
+Org_167,Healthcare,Large,3866,Claude,2021,27.75,9.5,617978,936836
+Org_168,IT,Small,73,Midjourney,2024,42.08,8.0,9853,12700
+Org_169,Education,Medium,511,Claude,2022,24.24,7.0,88890,139374
+Org_170,Education,Large,1153,Midjourney,2024,31.22,6.1,893264,1498817
+Org_171,IT,Medium,260,Midjourney,2024,14.42,8.9,136123,282125
+Org_172,Healthcare,Medium,677,ChatGPT,2020,26.0,4.6,141748,174097
+Org_173,Manufacturing,Medium,216,ChatGPT,2025,16.81,7.3,140327,303351
+Org_174,Retail,Large,3708,Gemini,2025,27.74,8.3,305423,699074
+Org_175,Finance,Medium,736,ChatGPT,2025,43.55,4.3,87641,168583
+Org_176,Manufacturing,Medium,600,Midjourney,2022,40.29,7.4,144457,222174
+Org_177,Finance,Large,5430,ChatGPT,2024,34.47,9.8,950294,2103455
+Org_178,Manufacturing,Medium,422,Midjourney,2025,27.87,9.1,87265,159817
+Org_179,Finance,Large,1614,GitHub Copilot,2020,15.95,4.7,410017,959028
+Org_180,Finance,Medium,370,Claude,2023,35.01,8.3,144071,267293
+Org_181,Retail,Small,112,Gemini,2024,31.45,6.6,14323,20426
+Org_182,Education,Large,9502,GitHub Copilot,2024,47.14,9.9,930892,1713317
+Org_183,Manufacturing,Large,4810,Gemini,2021,55.98,5.6,603832,1313686
+Org_184,Retail,Large,1920,Claude,2023,23.5,7.1,604032,866355
+Org_185,Education,Large,3050,ChatGPT,2024,37.86,8.3,633816,943227
+Org_186,Finance,Medium,784,Gemini,2021,25.48,6.3,93001,206200
+Org_187,Education,Large,5805,Midjourney,2025,32.43,9.4,935457,1247757
+Org_188,Manufacturing,Medium,763,GitHub Copilot,2021,39.28,6.4,91844,207833
+Org_189,Education,Medium,565,Gemini,2022,24.82,5.1,195271,310515
+Org_190,Retail,Medium,972,Gemini,2024,24.01,5.3,96600,231729
+Org_191,Manufacturing,Small,141,Claude,2024,31.09,6.9,29578,66318
+Org_192,Retail,Large,5876,Midjourney,2022,12.91,7.2,915080,2153082
+Org_193,Finance,Small,120,Gemini,2021,26.37,4.8,22602,55101
+Org_194,Manufacturing,Medium,531,Gemini,2020,35.84,6.0,92520,173123
+Org_195,Healthcare,Small,143,ChatGPT,2023,38.84,7.0,34125,83502
+Org_196,IT,Small,195,GitHub Copilot,2024,20.49,4.5,43001,77109
+Org_197,Retail,Small,81,GitHub Copilot,2024,25.11,8.1,31572,46532
+Org_198,Education,Large,5311,Midjourney,2025,40.44,8.0,690042,1596903
+Org_199,Healthcare,Large,2704,GitHub Copilot,2023,33.18,5.1,394692,920902
+Org_200,Education,Medium,960,Gemini,2020,23.7,9.0,155865,350372
+Org_201,Healthcare,Large,4741,ChatGPT,2025,21.89,5.2,688972,1352932
+Org_202,IT,Medium,312,Gemini,2024,38.62,4.7,194059,215929
+Org_203,Healthcare,Large,2007,Midjourney,2021,32.49,9.8,523390,863076
+Org_204,Education,Small,98,Midjourney,2025,45.77,4.6,18507,24859
+Org_205,Healthcare,Small,87,GitHub Copilot,2023,26.37,7.5,25953,31262
+Org_206,Healthcare,Medium,409,Midjourney,2025,31.75,9.8,74860,129084
+Org_207,Retail,Large,9954,Claude,2022,45.66,8.1,637785,843479
+Org_208,Education,Large,4356,Midjourney,2025,29.34,4.6,413030,759080
+Org_209,Education,Large,3844,GitHub Copilot,2024,41.22,5.6,972944,2382283
+Org_210,Healthcare,Large,1988,GitHub Copilot,2025,43.11,6.5,621818,1523658
+Org_211,Education,Medium,858,Gemini,2023,29.54,9.4,183052,252703
+Org_212,Manufacturing,Medium,992,Midjourney,2025,32.43,7.4,68639,127704
+Org_213,Education,Large,6179,Gemini,2022,33.43,8.6,443373,816913
+Org_214,Finance,Medium,398,ChatGPT,2024,34.57,4.8,186727,446125
+Org_215,Manufacturing,Medium,757,Gemini,2024,15.74,7.4,115455,206460
+Org_216,Finance,Medium,925,Claude,2024,36.06,5.6,104615,178530
+Org_217,Retail,Small,83,Gemini,2024,25.48,7.6,31143,62901
+Org_218,Healthcare,Small,52,GitHub Copilot,2025,5.76,9.4,37981,81614
+Org_219,Manufacturing,Small,60,Gemini,2022,54.02,8.2,13905,30398
+Org_220,IT,Medium,441,GitHub Copilot,2023,29.77,7.1,162360,258294
+Org_221,Finance,Large,7732,GitHub Copilot,2021,19.98,7.4,250861,519400
+Org_222,Education,Small,162,Gemini,2022,27.19,5.0,11090,14127
+Org_223,Education,Medium,834,Midjourney,2020,48.12,9.2,184461,405222
+Org_224,Manufacturing,Small,130,Midjourney,2025,33.58,4.5,37975,70885
+Org_225,Education,Medium,513,ChatGPT,2025,24.2,5.0,86877,105493
+Org_226,Finance,Medium,211,GitHub Copilot,2022,29.76,5.0,129148,253393
+Org_227,Education,Large,4638,Midjourney,2024,35.71,6.6,839282,1113174
+Org_228,Retail,Small,165,GitHub Copilot,2024,33.75,6.0,7920,14181
+Org_229,Healthcare,Medium,913,GitHub Copilot,2023,25.88,5.2,162340,343842
+Org_230,Education,Small,43,GitHub Copilot,2023,15.88,6.1,30963,67338
+Org_231,Finance,Large,1955,GitHub Copilot,2020,32.24,6.6,887220,1467214
+Org_232,Manufacturing,Small,85,GitHub Copilot,2024,40.47,8.8,17201,42813
+Org_233,Healthcare,Large,5732,Midjourney,2022,44.77,8.4,720985,1515622
+Org_234,IT,Medium,951,Midjourney,2024,43.8,7.8,138397,251558
+Org_235,Retail,Large,5648,ChatGPT,2022,28.43,7.1,640280,1298276
+Org_236,IT,Large,4814,GitHub Copilot,2022,40.62,6.3,947512,1571604
+Org_237,Healthcare,Medium,362,Gemini,2024,41.08,4.8,193660,277289
+Org_238,IT,Medium,486,GitHub Copilot,2022,22.92,4.4,132189,206643
+Org_239,Finance,Small,112,GitHub Copilot,2023,27.41,5.5,18994,46117
+Org_240,Finance,Medium,512,GitHub Copilot,2022,42.34,5.0,85946,183147
+Org_241,Finance,Medium,403,Claude,2024,33.82,7.5,199381,276776
+Org_242,IT,Medium,533,ChatGPT,2021,34.3,7.2,141155,165486
+Org_243,Manufacturing,Large,7262,ChatGPT,2022,31.91,8.1,896595,2224705
+Org_244,Finance,Small,62,ChatGPT,2020,21.05,5.9,20398,35423
+Org_245,Manufacturing,Small,190,ChatGPT,2024,21.29,4.2,37556,48858
+Org_246,Healthcare,Small,197,ChatGPT,2022,34.03,8.0,15225,20762
+Org_247,Retail,Small,27,Gemini,2022,38.05,9.9,27473,30894
+Org_248,Healthcare,Medium,344,ChatGPT,2025,17.81,9.2,160448,183318
+Org_249,Retail,Small,91,GitHub Copilot,2025,31.81,9.6,24508,49843
+Org_250,Manufacturing,Medium,560,Claude,2021,37.52,7.9,153409,298677
+Org_251,Healthcare,Large,1574,Midjourney,2025,40.05,8.7,722828,1087248
+Org_252,Manufacturing,Large,8114,ChatGPT,2025,27.48,6.4,753453,1805231
+Org_253,Healthcare,Medium,218,ChatGPT,2025,37.21,6.6,153754,249994
+Org_254,Retail,Small,73,Claude,2024,36.35,6.0,28616,46158
+Org_255,Retail,Large,5806,GitHub Copilot,2024,38.75,7.6,339999,551666
+Org_256,Education,Large,7059,Gemini,2020,8.43,7.5,653449,1413463
+Org_257,IT,Large,7228,Gemini,2025,5.01,4.2,987609,1236966
+Org_258,IT,Large,6252,Claude,2023,52.91,7.5,866923,1532176
+Org_259,Manufacturing,Large,9234,ChatGPT,2025,35.95,9.7,913708,2057077
+Org_260,Retail,Small,126,Claude,2020,38.53,7.9,26627,64877
+Org_261,Retail,Medium,914,Claude,2023,29.03,5.2,96413,171636
+Org_262,IT,Large,8151,Claude,2024,15.9,8.0,898012,1997390
+Org_263,IT,Medium,490,GitHub Copilot,2024,32.54,6.4,136365,184584
+Org_264,IT,Medium,550,Claude,2025,25.21,8.8,113646,237822
+Org_265,Manufacturing,Medium,511,Gemini,2025,21.77,8.9,121031,222345
+Org_266,Education,Small,66,Midjourney,2025,28.5,7.6,28669,52213
+Org_267,Manufacturing,Medium,419,Midjourney,2022,35.0,6.5,125388,296949
+Org_268,Retail,Medium,351,GitHub Copilot,2023,17.04,5.4,84084,128050
+Org_269,Education,Large,7807,Midjourney,2025,48.2,4.6,543715,712041
+Org_270,Finance,Medium,638,Gemini,2024,21.72,5.0,67633,119172
+Org_271,IT,Medium,860,GitHub Copilot,2021,30.44,7.6,73711,146916
+Org_272,Healthcare,Medium,789,Midjourney,2024,28.53,4.4,67727,87436
+Org_273,Retail,Large,7780,GitHub Copilot,2025,35.69,5.6,516397,759544
+Org_274,Finance,Small,116,GitHub Copilot,2024,46.28,6.4,15106,23882
+Org_275,Finance,Small,32,GitHub Copilot,2024,32.34,9.3,13258,24476
+Org_276,Healthcare,Medium,580,Claude,2024,14.44,5.1,186321,464273
+Org_277,Finance,Medium,969,Midjourney,2023,29.88,6.0,181733,342969
+Org_278,Manufacturing,Medium,747,Midjourney,2025,31.13,7.8,118910,164251
+Org_279,IT,Large,1207,Gemini,2023,42.49,4.0,508623,1032950
+Org_280,IT,Small,22,GitHub Copilot,2025,27.0,5.4,42211,104000
+Org_281,Education,Large,7099,Gemini,2025,42.13,7.1,417029,608806
+Org_282,Manufacturing,Medium,655,GitHub Copilot,2025,31.42,4.8,126559,229017
+Org_283,Education,Small,161,ChatGPT,2021,23.18,6.3,40585,97880
+Org_284,Finance,Small,94,GitHub Copilot,2025,18.26,5.7,23073,44780
+Org_285,Manufacturing,Small,74,Claude,2022,33.65,7.4,29819,41505
+Org_286,Manufacturing,Large,1560,Claude,2021,44.02,8.9,234594,479516
+Org_287,Education,Large,8629,Midjourney,2025,23.32,4.5,836308,946743
+Org_288,Finance,Medium,329,Midjourney,2022,39.92,9.7,186728,355759
+Org_289,Finance,Medium,452,GitHub Copilot,2025,29.75,7.6,195788,302403
+Org_290,Finance,Medium,682,Claude,2023,38.18,4.9,151268,171861
+Org_291,Healthcare,Small,44,Gemini,2022,32.42,9.6,33179,56912
+Org_292,Finance,Small,79,Midjourney,2025,20.3,4.0,17330,34095
+Org_293,Manufacturing,Small,79,Gemini,2023,41.44,5.2,44256,52285
+Org_294,Healthcare,Large,4850,GitHub Copilot,2025,9.84,7.7,356104,606257
+Org_295,Finance,Large,6448,Midjourney,2025,22.3,8.1,765856,1388643
+Org_296,Retail,Large,2638,Claude,2022,24.4,5.4,627387,959121
+Org_297,IT,Small,71,Claude,2024,34.71,8.8,10693,21553
+Org_298,Healthcare,Medium,682,Gemini,2023,37.3,6.5,149853,201948
+Org_299,Finance,Small,105,Midjourney,2025,24.33,6.5,42605,62362
+Org_300,Healthcare,Medium,849,ChatGPT,2024,26.11,5.1,110428,123344
+Org_301,IT,Large,9433,Claude,2024,28.78,5.6,603850,1048361
+Org_302,Manufacturing,Small,71,GitHub Copilot,2023,25.65,4.9,15749,20632
+Org_303,IT,Small,71,Midjourney,2022,40.92,7.7,35620,62093
+Org_304,Finance,Medium,220,GitHub Copilot,2025,35.33,4.8,53191,81997
+Org_305,Education,Medium,328,Gemini,2025,28.02,9.6,78671,185857
+Org_306,IT,Medium,988,GitHub Copilot,2025,26.2,7.0,101399,143758
+Org_307,IT,Small,164,GitHub Copilot,2021,18.09,8.4,27614,56672
+Org_308,Education,Small,96,Midjourney,2020,30.63,8.5,41224,49506
+Org_309,Manufacturing,Large,9599,ChatGPT,2021,30.1,6.3,341214,516990
+Org_310,Healthcare,Small,158,Midjourney,2025,24.57,9.7,33138,55571
+Org_311,Finance,Small,24,Gemini,2024,22.18,4.1,18279,33277
+Org_312,IT,Large,8504,GitHub Copilot,2023,38.8,8.6,852184,2101815
+Org_313,Retail,Large,2827,Midjourney,2024,36.42,7.2,469054,1151942
+Org_314,Healthcare,Large,3196,GitHub Copilot,2021,42.25,6.8,521909,929218
+Org_315,Education,Medium,359,Claude,2025,35.38,4.8,95838,120289
+Org_316,Retail,Medium,601,Claude,2022,40.73,6.2,88714,165906
+Org_317,Retail,Large,8128,ChatGPT,2022,33.15,8.1,284080,569334
+Org_318,Retail,Large,6341,ChatGPT,2025,28.34,9.1,506094,735424
+Org_319,Healthcare,Large,8165,Gemini,2024,34.91,8.7,869931,1022518
+Org_320,Finance,Large,9789,ChatGPT,2025,37.35,5.6,223387,259227
+Org_321,Healthcare,Small,21,Gemini,2022,38.13,5.3,41850,54863
+Org_322,Retail,Small,63,Gemini,2025,35.78,7.3,6724,14394
+Org_323,IT,Medium,714,GitHub Copilot,2023,48.11,9.2,59496,128842
+Org_324,Manufacturing,Large,7279,GitHub Copilot,2024,36.24,4.1,615872,1316978
+Org_325,Finance,Small,22,Gemini,2025,27.91,8.8,49522,76031
+Org_326,Finance,Large,2428,Claude,2025,21.49,7.7,356570,735617
+Org_327,Manufacturing,Medium,311,ChatGPT,2025,28.66,8.6,191877,434745
+Org_328,Manufacturing,Small,33,Claude,2025,30.15,8.6,20379,31744
+Org_329,Manufacturing,Large,2778,Gemini,2025,32.32,4.7,723886,1250914
+Org_330,Education,Small,39,Midjourney,2025,5.0,5.3,28705,47309
+Org_331,Healthcare,Large,6588,Gemini,2020,26.06,6.3,489910,1138534
+Org_332,Finance,Small,33,ChatGPT,2025,25.88,4.6,28225,53234
+Org_333,IT,Small,151,Claude,2021,55.12,7.6,33731,52315
+Org_334,Retail,Large,4390,Midjourney,2021,26.61,4.4,242092,519116
+Org_335,Finance,Medium,513,ChatGPT,2025,30.88,6.6,55469,86502
+Org_336,Education,Large,2169,Claude,2023,44.78,4.4,618267,1316864
+Org_337,Manufacturing,Medium,317,Claude,2024,48.62,8.7,134045,287674
+Org_338,Retail,Large,4471,GitHub Copilot,2022,19.23,7.4,863689,1354537
+Org_339,Education,Small,126,Midjourney,2020,24.72,7.1,23284,51122
+Org_340,IT,Medium,625,Claude,2025,37.71,5.4,144788,329929
+Org_341,Retail,Medium,248,ChatGPT,2023,31.56,7.8,196150,463988
+Org_342,IT,Small,182,Midjourney,2023,33.32,8.4,47821,56437
+Org_343,Retail,Small,193,Claude,2024,33.95,7.9,28252,33804
+Org_344,Retail,Small,127,Gemini,2020,24.27,4.2,42766,61829
+Org_345,Education,Large,4291,GitHub Copilot,2025,29.33,6.6,470040,1028163
+Org_346,Finance,Small,63,Midjourney,2022,32.45,9.1,35314,41942
+Org_347,Education,Large,3297,GitHub Copilot,2024,16.86,8.6,952254,1363149
+Org_348,IT,Medium,871,Claude,2024,19.05,9.8,115428,135415
+Org_349,Education,Medium,691,Claude,2025,28.96,9.9,78228,157695
+Org_350,Manufacturing,Small,184,Gemini,2024,53.56,6.8,27360,66371
+Org_351,Finance,Medium,644,GitHub Copilot,2021,25.73,5.5,179350,368968
+Org_352,Finance,Large,3336,GitHub Copilot,2024,24.58,4.7,338593,563950
+Org_353,Retail,Small,62,GitHub Copilot,2021,33.79,4.5,17485,39965
+Org_354,IT,Medium,716,Claude,2025,48.12,9.1,118673,146749
+Org_355,Finance,Small,163,GitHub Copilot,2023,36.19,4.4,29487,37056
+Org_356,Retail,Small,78,Midjourney,2024,50.57,4.3,39622,71167
+Org_357,Education,Medium,231,ChatGPT,2023,25.17,8.5,55774,77349
+Org_358,Healthcare,Large,2749,Claude,2022,20.47,5.5,649916,1125482
+Org_359,Retail,Medium,257,GitHub Copilot,2025,48.29,4.6,141179,261771
+Org_360,IT,Small,25,Claude,2023,50.19,6.7,18489,22755
+Org_361,Retail,Small,70,Claude,2022,42.71,5.7,12239,27134
+Org_362,Education,Large,5654,GitHub Copilot,2022,22.93,9.4,934417,1234492
+Org_363,IT,Small,31,Midjourney,2022,14.34,9.4,6898,17085
+Org_364,Healthcare,Large,4200,Gemini,2020,42.98,6.2,479215,629183
+Org_365,Finance,Large,3307,ChatGPT,2025,33.4,5.9,778688,1311984
+Org_366,Retail,Medium,732,ChatGPT,2025,24.58,5.9,83691,195393
+Org_367,Healthcare,Small,78,GitHub Copilot,2022,30.33,7.2,41632,93761
+Org_368,IT,Large,8833,Gemini,2021,27.33,8.4,870396,1367894
+Org_369,Education,Large,1264,Claude,2025,48.08,5.9,942849,2121685
+Org_370,Retail,Large,3504,Claude,2023,33.51,7.0,733634,1710651
+Org_371,Education,Medium,997,GitHub Copilot,2022,38.41,4.6,75556,127551
+Org_372,Healthcare,Medium,745,Midjourney,2023,35.47,6.7,83866,168705
+Org_373,Healthcare,Medium,375,Gemini,2024,37.96,9.1,82602,164196
+Org_374,Retail,Large,9915,Gemini,2025,36.19,4.6,405735,448476
+Org_375,IT,Medium,246,GitHub Copilot,2022,25.98,9.0,137960,193384
+Org_376,Finance,Large,8358,Claude,2021,35.24,8.6,643316,1295913
+Org_377,IT,Medium,853,Claude,2025,36.83,4.4,191521,385163
+Org_378,Retail,Large,5741,GitHub Copilot,2024,24.06,7.4,842650,1386718
+Org_379,Healthcare,Medium,757,Midjourney,2024,31.41,6.3,62109,109976
+Org_380,Education,Medium,480,Claude,2023,41.01,4.2,84518,108050
+Org_381,Retail,Large,5088,GitHub Copilot,2023,31.96,8.8,991507,2453502
+Org_382,Education,Medium,917,Gemini,2025,33.17,5.8,144840,216409
+Org_383,Manufacturing,Small,194,Midjourney,2023,26.2,4.4,48472,69734
+Org_384,Education,Small,83,GitHub Copilot,2024,27.18,5.7,34492,52294
+Org_385,IT,Medium,533,GitHub Copilot,2025,34.28,7.6,176888,439502
+Org_386,Manufacturing,Medium,454,GitHub Copilot,2021,38.99,5.4,147136,220616
+Org_387,Manufacturing,Large,6154,Gemini,2023,33.53,8.0,672367,1522187
+Org_388,Education,Small,191,Gemini,2021,43.93,4.6,24900,28528
+Org_389,Retail,Large,5577,Claude,2025,36.53,6.6,423563,1005939
+Org_390,IT,Medium,373,ChatGPT,2025,56.88,7.6,76649,102001
+Org_391,Retail,Medium,605,ChatGPT,2024,42.22,8.2,78803,161309
+Org_392,Manufacturing,Small,111,GitHub Copilot,2021,47.5,6.3,13770,27720
+Org_393,Manufacturing,Small,181,ChatGPT,2024,39.07,4.0,11716,20637
+Org_394,Education,Medium,929,Claude,2025,27.85,5.4,161032,251835
+Org_395,Retail,Large,3800,GitHub Copilot,2024,5.0,6.8,402416,733685
+Org_396,Manufacturing,Small,68,Claude,2020,15.5,5.3,42418,96776
+Org_397,Manufacturing,Large,5697,GitHub Copilot,2024,15.49,6.4,685757,1021058
+Org_398,Finance,Large,6463,GitHub Copilot,2021,26.83,7.7,495767,914312
+Org_399,Retail,Small,78,Midjourney,2024,29.81,8.2,21018,36378
+Org_400,IT,Small,146,Claude,2023,40.76,6.4,13210,22132
+Org_401,Healthcare,Large,7132,ChatGPT,2023,18.02,8.3,954651,2147656
+Org_402,Education,Small,27,ChatGPT,2025,40.29,4.0,40820,92311
+Org_403,Education,Small,196,Claude,2024,22.92,6.3,29995,48492
+Org_404,IT,Small,166,Claude,2024,33.43,7.3,34808,41749
+Org_405,IT,Medium,577,Claude,2023,24.74,7.9,164889,264925
+Org_406,Finance,Medium,465,Gemini,2024,45.06,4.8,114200,223558
+Org_407,Healthcare,Large,1770,GitHub Copilot,2025,30.58,4.9,449768,760489
+Org_408,Retail,Large,3466,Gemini,2023,22.55,4.5,362777,861300
+Org_409,Healthcare,Small,81,ChatGPT,2024,42.66,7.9,39587,65015
+Org_410,Retail,Medium,306,Midjourney,2023,21.34,8.0,112493,194048
+Org_411,Manufacturing,Small,117,GitHub Copilot,2023,51.91,8.6,21743,50998
+Org_412,Retail,Small,179,Gemini,2023,16.21,7.6,23019,37985
+Org_413,Education,Large,4361,Claude,2022,18.94,9.3,948736,2300971
+Org_414,Education,Medium,986,ChatGPT,2020,27.85,7.9,52011,57700
+Org_415,Education,Medium,678,Midjourney,2025,21.34,9.1,129239,208130
+Org_416,Healthcare,Small,135,GitHub Copilot,2024,32.08,7.4,22438,46302
+Org_417,Finance,Large,2900,Claude,2025,18.85,4.6,731885,836792
+Org_418,Manufacturing,Medium,647,Claude,2023,30.98,6.4,199765,431232
+Org_419,Education,Medium,444,Gemini,2023,29.07,9.3,187416,464345
+Org_420,Education,Medium,276,ChatGPT,2024,32.29,4.9,109500,269264
+Org_421,Healthcare,Medium,477,Midjourney,2024,31.83,7.3,136836,310222
+Org_422,Finance,Large,1946,Claude,2023,18.2,9.0,326060,447508
+Org_423,Manufacturing,Medium,696,ChatGPT,2024,18.85,9.0,169619,269047
+Org_424,Manufacturing,Medium,803,Claude,2024,37.46,10.0,87772,173501
+Org_425,IT,Large,7652,ChatGPT,2025,32.92,7.4,436281,761756
+Org_426,Retail,Large,3567,GitHub Copilot,2020,38.99,6.9,439779,1042153
+Org_427,Finance,Small,83,Midjourney,2024,13.11,6.8,15485,19865
+Org_428,Finance,Small,158,Gemini,2024,41.42,4.3,6207,9224
+Org_429,Retail,Medium,757,Gemini,2020,20.91,8.5,128518,208901
+Org_430,Manufacturing,Small,121,ChatGPT,2024,30.29,7.4,7454,12233
+Org_431,Finance,Medium,914,ChatGPT,2025,43.63,9.4,68354,132809
+Org_432,Retail,Medium,950,Gemini,2024,21.68,9.7,175438,219818
+Org_433,IT,Medium,315,Claude,2020,16.15,5.4,90510,211508
+Org_434,Manufacturing,Medium,642,Gemini,2020,39.63,9.8,140102,157861
+Org_435,Healthcare,Small,41,Midjourney,2024,39.52,4.8,17413,34865
+Org_436,Finance,Large,2227,Midjourney,2025,41.01,5.7,249847,459720
+Org_437,Finance,Small,66,Claude,2025,28.76,7.8,25620,55205
+Org_438,Education,Medium,387,Claude,2024,26.44,8.6,144754,283579
+Org_439,IT,Medium,303,ChatGPT,2023,20.4,8.1,150318,179241
+Org_440,Healthcare,Small,118,GitHub Copilot,2024,39.75,7.8,49716,103253
+Org_441,Retail,Medium,244,ChatGPT,2025,11.06,4.5,109766,250146
+Org_442,Education,Small,143,Claude,2025,32.13,4.3,15350,21421
+Org_443,Retail,Small,53,GitHub Copilot,2023,38.29,5.9,33454,47385
+Org_444,Finance,Large,6789,Claude,2025,28.06,7.6,835956,1406554
+Org_445,Retail,Medium,480,Claude,2021,30.08,6.7,139571,275610
+Org_446,IT,Large,9851,Gemini,2024,40.04,5.5,567003,809972
+Org_447,Education,Small,72,Midjourney,2025,40.6,4.9,10590,22333
+Org_448,Retail,Medium,211,Midjourney,2024,57.6,5.7,96154,142323
+Org_449,Healthcare,Large,8758,ChatGPT,2021,35.6,8.3,262551,597322
+Org_450,Manufacturing,Medium,589,Claude,2022,23.84,8.4,156122,352429
+Org_451,Manufacturing,Medium,818,ChatGPT,2023,25.24,8.7,163550,395820
+Org_452,Healthcare,Small,102,ChatGPT,2025,38.74,6.3,49452,62429
+Org_453,Finance,Medium,670,ChatGPT,2024,45.69,8.2,177881,230313
+Org_454,IT,Small,168,Midjourney,2025,16.72,5.1,29427,37708
+Org_455,Healthcare,Medium,651,GitHub Copilot,2025,23.82,8.7,116852,136420
+Org_456,Finance,Large,2124,Midjourney,2024,26.84,6.3,618815,1055587
+Org_457,Education,Large,4374,Gemini,2021,42.71,4.0,500486,1088354
+Org_458,Education,Large,3257,ChatGPT,2024,36.31,6.5,936129,1307577
+Org_459,Education,Large,5424,GitHub Copilot,2025,38.38,8.8,701590,1368698
+Org_460,Finance,Small,181,Claude,2023,43.07,9.6,35499,75756
+Org_461,Healthcare,Medium,227,GitHub Copilot,2025,31.38,6.8,104336,244803
+Org_462,Healthcare,Medium,451,ChatGPT,2020,26.6,8.0,76672,96309
+Org_463,Manufacturing,Medium,849,Midjourney,2024,32.98,5.5,68199,155055
+Org_464,Manufacturing,Medium,597,ChatGPT,2023,23.65,7.0,104131,115990
+Org_465,Education,Medium,370,Gemini,2025,28.91,8.6,152518,333036
+Org_466,IT,Medium,886,ChatGPT,2022,25.11,4.8,105243,134265
+Org_467,Manufacturing,Small,189,Midjourney,2025,27.62,5.6,25447,39823
+Org_468,IT,Small,172,Claude,2025,31.92,7.1,25093,47649
+Org_469,Healthcare,Small,62,Midjourney,2024,40.28,8.1,9426,21318
+Org_470,Healthcare,Small,64,Midjourney,2023,31.31,5.8,29770,62344
+Org_471,Healthcare,Large,3204,Gemini,2022,46.71,6.8,962371,2349056
+Org_472,Healthcare,Medium,592,Gemini,2022,28.92,7.2,124707,232238
+Org_473,Retail,Small,162,Claude,2024,23.29,8.4,48369,113885
+Org_474,Healthcare,Small,44,Midjourney,2025,36.3,7.5,27794,68771
+Org_475,Finance,Small,123,ChatGPT,2025,34.38,8.9,37430,89251
+Org_476,Manufacturing,Small,76,Gemini,2025,19.68,8.2,41081,84878
+Org_477,IT,Medium,204,Gemini,2024,13.11,8.6,134703,242579
+Org_478,Retail,Medium,476,ChatGPT,2025,22.81,7.7,94605,210945
+Org_479,Healthcare,Medium,409,ChatGPT,2024,28.3,7.4,88405,152388
+Org_480,Healthcare,Large,1492,GitHub Copilot,2020,16.86,9.1,665226,1470415
+Org_481,Retail,Small,30,ChatGPT,2023,22.38,7.8,30851,76903
+Org_482,Education,Medium,898,Claude,2025,33.1,7.4,137178,239039
+Org_483,Retail,Large,8186,ChatGPT,2022,21.78,8.2,268431,662549
+Org_484,Education,Large,6366,Gemini,2023,43.17,9.1,800541,1685670
+Org_485,Retail,Small,113,Midjourney,2024,20.44,7.4,27357,62846
+Org_486,Finance,Medium,243,ChatGPT,2020,34.72,4.1,199092,324077
+Org_487,IT,Medium,355,GitHub Copilot,2022,17.5,5.9,134289,244480
+Org_488,Education,Large,6722,ChatGPT,2023,36.05,5.5,958108,1698961
+Org_489,Education,Large,2676,GitHub Copilot,2020,60.0,6.9,733459,899961
+Org_490,IT,Small,113,Claude,2025,15.37,9.7,25058,37230
+Org_491,Retail,Small,36,ChatGPT,2025,34.06,6.2,20417,47536
+Org_492,Healthcare,Medium,603,Midjourney,2021,14.2,7.0,168474,362637
+Org_493,Manufacturing,Large,2913,Midjourney,2025,34.41,5.3,540676,1139109
+Org_494,Manufacturing,Medium,860,GitHub Copilot,2024,21.35,8.6,158946,206842
+Org_495,Retail,Large,8470,Claude,2025,26.84,8.6,899158,1588695
+Org_496,Education,Large,2422,Midjourney,2024,41.03,5.2,982215,1336392
+Org_497,Education,Small,166,ChatGPT,2024,30.92,6.2,21654,50481
+Org_498,Manufacturing,Large,4607,Midjourney,2023,26.83,8.9,347745,808937
+Org_499,Manufacturing,Small,135,GitHub Copilot,2023,36.9,4.3,47633,65770
+Org_500,Education,Small,122,GitHub Copilot,2023,5.0,5.8,43402,101379
+Org_501,Finance,Medium,541,GitHub Copilot,2025,42.17,9.1,143526,280375
+Org_502,Education,Large,3749,ChatGPT,2025,38.21,5.5,682488,1105164
+Org_503,Finance,Medium,578,Claude,2025,16.23,8.6,52708,69018
+Org_504,Manufacturing,Medium,471,Claude,2021,25.36,7.3,184345,208114
+Org_505,Healthcare,Large,9712,GitHub Copilot,2023,26.75,6.2,943859,1873582
+Org_506,IT,Small,142,ChatGPT,2025,53.0,4.6,43078,78076
+Org_507,IT,Medium,280,ChatGPT,2025,35.35,8.3,141118,292457
+Org_508,Manufacturing,Large,1166,Claude,2025,38.88,6.1,613089,1367126
+Org_509,Healthcare,Large,3524,ChatGPT,2022,36.42,4.9,503664,1066699
+Org_510,Retail,Large,1174,Midjourney,2023,18.86,7.3,829698,1473129
+Org_511,Finance,Large,4171,ChatGPT,2025,22.88,4.2,758963,967022
+Org_512,Education,Medium,277,GitHub Copilot,2025,44.44,9.8,138791,289631
+Org_513,Manufacturing,Small,102,Claude,2025,52.9,6.6,44194,78451
+Org_514,Retail,Medium,724,Claude,2025,49.28,8.3,108002,178762
+Org_515,IT,Large,5986,Midjourney,2025,35.8,7.8,815937,1892957
+Org_516,Healthcare,Small,134,GitHub Copilot,2024,40.11,4.4,46334,88055
+Org_517,Healthcare,Small,35,Claude,2025,16.55,5.0,45928,85811
+Org_518,Retail,Medium,325,ChatGPT,2023,36.82,5.1,197595,389224
+Org_519,Finance,Large,4168,Gemini,2023,32.65,5.5,809312,1214017
+Org_520,Education,Large,4951,Midjourney,2023,39.48,8.1,584890,689713
+Org_521,Retail,Large,3606,Midjourney,2023,24.41,8.7,683455,1470327
+Org_522,IT,Large,5855,Claude,2025,33.4,6.0,673918,1148913
+Org_523,IT,Small,76,Claude,2020,34.05,4.6,45505,57273
+Org_524,Manufacturing,Medium,517,Claude,2024,29.58,5.1,178467,301934
+Org_525,Finance,Small,196,Gemini,2023,21.71,6.9,46167,91548
+Org_526,Healthcare,Large,7309,GitHub Copilot,2025,23.37,7.6,522854,701123
+Org_527,IT,Small,39,ChatGPT,2023,31.97,7.7,31990,59972
+Org_528,IT,Large,3849,Midjourney,2025,21.87,6.2,987738,2021343
+Org_529,Healthcare,Medium,680,GitHub Copilot,2024,37.78,5.5,68689,158845
+Org_530,Education,Medium,264,Gemini,2021,55.24,6.7,112260,271964
+Org_531,Finance,Medium,861,Claude,2025,15.55,4.3,110272,180830
+Org_532,Retail,Large,1816,ChatGPT,2024,44.3,9.6,306121,507747
+Org_533,IT,Small,65,Gemini,2022,21.36,8.5,34038,49770
+Org_534,Retail,Small,112,ChatGPT,2024,28.59,6.6,7962,15328
+Org_535,Finance,Medium,984,GitHub Copilot,2024,42.2,5.2,60278,83122
+Org_536,Education,Large,9342,GitHub Copilot,2021,40.36,9.5,566142,904898
+Org_537,Education,Medium,565,Gemini,2023,47.05,7.6,136346,263519
+Org_538,Retail,Small,113,Claude,2025,26.99,9.0,31149,50978
+Org_539,Education,Small,183,Claude,2025,16.0,7.7,36552,53172
+Org_540,Manufacturing,Large,1602,Midjourney,2024,32.07,4.4,282409,479669
+Org_541,Education,Large,8786,Claude,2024,22.14,9.4,611473,1346672
+Org_542,IT,Small,104,GitHub Copilot,2023,16.19,9.2,10307,23367
+Org_543,Retail,Small,187,ChatGPT,2023,35.38,4.4,29417,52953
+Org_544,Healthcare,Medium,711,Gemini,2023,31.84,4.1,138835,267441
+Org_545,Healthcare,Medium,334,Claude,2021,37.93,4.6,85842,143659
+Org_546,Finance,Small,140,ChatGPT,2023,29.83,5.0,10103,18417
+Org_547,Education,Large,3032,GitHub Copilot,2022,37.9,8.9,525203,905808
+Org_548,Healthcare,Small,88,GitHub Copilot,2020,33.4,9.5,40098,73018
+Org_549,Retail,Large,4606,Gemini,2023,27.29,9.2,967286,1356603
+Org_550,Retail,Large,9758,Claude,2025,31.56,6.0,959785,1557662
+Org_551,IT,Medium,513,ChatGPT,2025,40.65,7.0,116197,212668
+Org_552,Education,Small,24,GitHub Copilot,2024,8.6,9.0,29527,63415
+Org_553,IT,Medium,925,Midjourney,2023,6.78,8.3,55520,118639
+Org_554,Education,Large,1596,GitHub Copilot,2025,19.34,8.4,375121,568496
+Org_555,Manufacturing,Large,5384,GitHub Copilot,2023,45.72,9.3,876473,1398833
+Org_556,Finance,Small,134,GitHub Copilot,2022,24.2,7.1,49571,76111
+Org_557,IT,Medium,878,Gemini,2021,16.22,5.3,152811,290444
+Org_558,Retail,Medium,562,Claude,2024,24.35,6.5,86320,160319
+Org_559,IT,Medium,529,ChatGPT,2023,22.43,6.0,182992,363053
+Org_560,Healthcare,Medium,438,Midjourney,2021,36.48,7.6,120463,289879
+Org_561,Education,Large,5390,ChatGPT,2022,20.04,6.4,917104,1880482
+Org_562,Education,Medium,513,Claude,2024,36.51,6.5,86413,190960
+Org_563,Healthcare,Medium,736,Gemini,2024,39.37,5.3,190431,212134
+Org_564,IT,Large,7811,ChatGPT,2024,27.77,8.5,626488,1455857
+Org_565,Retail,Large,7773,Gemini,2025,16.81,9.1,204994,229329
+Org_566,Finance,Medium,741,Gemini,2024,27.97,4.1,91153,108815
+Org_567,Healthcare,Small,41,Gemini,2024,35.72,9.1,35835,71943
+Org_568,Finance,Small,192,Gemini,2024,22.51,7.1,29565,50463
+Org_569,Retail,Small,142,ChatGPT,2020,22.49,8.4,19394,40519
+Org_570,Healthcare,Large,6626,GitHub Copilot,2023,29.06,4.3,592670,1240026
+Org_571,Education,Large,9026,Midjourney,2023,33.16,6.2,856030,1905773
+Org_572,Education,Large,7460,Midjourney,2021,33.06,4.3,876999,1487828
+Org_573,Manufacturing,Large,7457,Midjourney,2025,37.51,7.1,263972,366957
+Org_574,Finance,Large,9235,Claude,2025,36.24,5.0,848456,1345437
+Org_575,Healthcare,Medium,641,ChatGPT,2025,35.41,7.9,173683,398362
+Org_576,Education,Medium,956,Claude,2024,44.42,4.9,168028,352504
+Org_577,Finance,Large,3575,ChatGPT,2022,19.1,5.3,398237,922354
+Org_578,Finance,Large,9841,ChatGPT,2024,22.15,5.1,489360,938854
+Org_579,Finance,Medium,377,GitHub Copilot,2023,35.11,8.8,197839,369776
+Org_580,IT,Small,185,Claude,2025,40.31,5.4,36709,54230
+Org_581,Finance,Small,175,ChatGPT,2024,38.98,8.9,38998,85375
+Org_582,Retail,Large,5933,Midjourney,2025,17.14,8.6,353939,571854
+Org_583,Education,Medium,739,Midjourney,2022,13.0,6.5,158036,313236
+Org_584,Retail,Large,2837,ChatGPT,2024,27.41,5.9,790189,1851701
+Org_585,Education,Large,9092,Gemini,2023,23.31,8.5,381429,797023
+Org_586,Finance,Large,6669,GitHub Copilot,2021,32.75,10.0,788574,1752122
+Org_587,Retail,Small,80,ChatGPT,2025,29.03,4.8,15698,25188
+Org_588,Education,Small,177,Claude,2023,24.96,7.9,40618,45575
+Org_589,Manufacturing,Small,178,Midjourney,2025,43.35,4.2,35926,65252
+Org_590,Manufacturing,Small,118,ChatGPT,2025,36.3,6.5,32772,62978
+Org_591,Healthcare,Large,1067,GitHub Copilot,2025,26.49,8.2,501994,958997
+Org_592,Education,Large,3258,Midjourney,2025,45.63,6.3,835873,1319565
+Org_593,Retail,Small,78,Claude,2024,26.99,9.2,7217,15163
+Org_594,Finance,Medium,213,GitHub Copilot,2021,5.0,6.7,69610,142599
+Org_595,Education,Medium,921,Midjourney,2021,32.02,4.3,181642,377086
+Org_596,IT,Large,3505,Claude,2024,36.52,8.5,977475,1641530
+Org_597,IT,Medium,815,ChatGPT,2025,49.87,9.0,185601,406604
+Org_598,Retail,Large,9566,GitHub Copilot,2022,24.69,6.7,365159,812089
+Org_599,Finance,Medium,421,Midjourney,2025,34.39,9.3,166545,316710
+Org_600,Healthcare,Medium,941,ChatGPT,2024,31.34,4.5,158106,305140
+Org_601,Retail,Large,7055,Gemini,2024,26.2,5.4,822288,1603120
+Org_602,Finance,Medium,827,GitHub Copilot,2022,31.78,8.1,139132,343191
+Org_603,Healthcare,Large,6047,ChatGPT,2022,21.04,8.8,919778,1270005
+Org_604,Finance,Large,2257,GitHub Copilot,2024,39.96,7.6,608376,1065274
+Org_605,Manufacturing,Medium,806,Gemini,2025,26.46,6.6,163931,367822
+Org_606,Manufacturing,Large,4135,Midjourney,2025,21.36,5.8,712493,1168372
+Org_607,IT,Large,7065,GitHub Copilot,2023,29.04,4.3,202775,251718
+Org_608,Retail,Medium,763,ChatGPT,2023,17.28,7.2,107124,231710
+Org_609,Finance,Medium,783,Gemini,2023,38.75,6.0,75479,106243
+Org_610,Healthcare,Medium,767,GitHub Copilot,2021,23.5,5.5,196480,313420
+Org_611,Healthcare,Small,32,Gemini,2021,35.95,4.9,43847,52926
+Org_612,Healthcare,Small,107,Claude,2022,24.43,4.5,49673,112312
+Org_613,IT,Large,3011,Midjourney,2024,29.24,8.7,874943,1138922
+Org_614,Manufacturing,Large,8522,ChatGPT,2020,17.83,5.0,893590,1085873
+Org_615,Manufacturing,Medium,446,Midjourney,2025,45.46,5.7,180956,286975
+Org_616,Healthcare,Large,1529,GitHub Copilot,2024,22.51,8.7,811726,1119324
+Org_617,Healthcare,Small,82,Gemini,2021,45.17,9.6,33378,61143
+Org_618,Manufacturing,Large,1844,Gemini,2025,33.58,7.0,314091,647610
+Org_619,Manufacturing,Medium,643,ChatGPT,2023,27.27,6.0,94739,159408
+Org_620,Education,Medium,423,Gemini,2021,40.54,5.2,173728,390019
+Org_621,Education,Large,6509,Claude,2024,26.49,7.9,588227,1446055
+Org_622,Manufacturing,Medium,271,Gemini,2023,56.85,8.0,53262,101156
+Org_623,Retail,Small,72,Claude,2023,23.92,9.0,13597,26451
+Org_624,Education,Small,185,Claude,2025,24.61,7.4,30805,44787
+Org_625,Manufacturing,Large,5482,GitHub Copilot,2025,42.38,7.4,212100,285311
+Org_626,Education,Medium,544,GitHub Copilot,2020,21.23,5.5,70862,104064
+Org_627,Retail,Large,5620,GitHub Copilot,2024,24.19,6.3,724624,951335
+Org_628,Healthcare,Small,148,Midjourney,2023,31.3,4.6,8129,11640
+Org_629,Healthcare,Medium,930,ChatGPT,2020,20.63,5.4,163892,287273
+Org_630,Manufacturing,Medium,672,Claude,2025,23.32,7.7,99649,165119
+Org_631,Retail,Small,113,Midjourney,2024,41.31,4.3,44760,81231
+Org_632,IT,Medium,827,ChatGPT,2024,37.5,6.8,97574,192889
+Org_633,Healthcare,Medium,616,GitHub Copilot,2025,36.49,5.3,86639,101320
+Org_634,Retail,Small,155,GitHub Copilot,2023,37.57,5.0,30920,60451
+Org_635,IT,Small,61,GitHub Copilot,2023,24.65,8.6,48423,90988
+Org_636,Finance,Small,104,GitHub Copilot,2025,33.58,9.6,18233,28174
+Org_637,IT,Medium,692,Midjourney,2025,45.34,5.4,108160,169279
+Org_638,Finance,Small,82,GitHub Copilot,2020,31.38,7.8,15234,29798
+Org_639,IT,Medium,346,Gemini,2022,38.74,7.6,94757,141041
+Org_640,IT,Medium,498,ChatGPT,2023,15.08,6.7,106889,224730
+Org_641,Manufacturing,Large,4176,Claude,2023,43.9,5.7,910381,1102030
+Org_642,Healthcare,Small,47,ChatGPT,2023,26.96,6.1,37551,69747
+Org_643,Finance,Medium,659,Gemini,2022,36.4,4.4,111576,160221
+Org_644,Manufacturing,Medium,383,GitHub Copilot,2024,28.09,4.9,155982,281099
+Org_645,Retail,Small,171,ChatGPT,2024,42.06,8.5,49041,66110
+Org_646,IT,Medium,351,Gemini,2025,37.77,8.5,60703,133418
+Org_647,Healthcare,Large,2186,Midjourney,2022,20.51,6.4,480926,769229
+Org_648,Retail,Medium,339,ChatGPT,2025,47.47,5.9,117766,147193
+Org_649,Finance,Small,108,Claude,2025,31.45,9.2,5627,7134
+Org_650,IT,Small,135,Gemini,2023,36.16,7.0,5249,6781
+Org_651,Education,Large,1974,Midjourney,2023,39.11,6.1,586350,657443
+Org_652,Education,Small,110,ChatGPT,2025,31.06,8.9,7773,14243
+Org_653,Education,Large,9383,Midjourney,2025,13.45,4.1,780086,1135425
+Org_654,IT,Large,5287,Midjourney,2021,20.4,7.5,691830,1111188
+Org_655,Retail,Small,121,Gemini,2022,31.49,8.4,19011,37332
+Org_656,Finance,Medium,978,ChatGPT,2024,23.21,4.6,60956,115521
+Org_657,Retail,Medium,644,Gemini,2022,43.68,4.2,81417,138712
+Org_658,Retail,Medium,694,Gemini,2022,26.44,4.7,171688,355190
+Org_659,Manufacturing,Large,6558,ChatGPT,2022,30.3,4.8,379689,608600
+Org_660,Retail,Medium,604,ChatGPT,2025,31.97,4.5,93618,148959
+Org_661,Retail,Large,7845,Midjourney,2025,19.22,4.5,802960,1286075
+Org_662,Retail,Large,5524,ChatGPT,2025,23.63,5.3,766510,992966
+Org_663,Education,Medium,854,ChatGPT,2025,22.08,5.8,190347,240998
+Org_664,Manufacturing,Medium,769,Claude,2024,7.64,7.2,72553,174994
+Org_665,Finance,Large,1985,ChatGPT,2023,34.54,9.8,960592,2304789
+Org_666,Finance,Small,32,Claude,2022,20.18,5.4,12566,24603
+Org_667,Healthcare,Large,8658,ChatGPT,2020,40.32,5.4,765151,1848801
+Org_668,Retail,Large,2895,Claude,2023,43.46,6.6,588422,857607
+Org_669,Healthcare,Small,84,Claude,2023,32.08,7.2,39724,47595
+Org_670,Retail,Medium,950,Gemini,2023,46.42,7.3,185899,440608
+Org_671,Manufacturing,Medium,587,GitHub Copilot,2023,14.86,7.0,109550,267451
+Org_672,Manufacturing,Small,64,Gemini,2025,33.22,4.3,40186,65561
+Org_673,IT,Large,6244,GitHub Copilot,2024,44.64,7.2,347878,738925
+Org_674,IT,Medium,370,Gemini,2025,24.38,7.9,60589,112478
+Org_675,IT,Small,141,ChatGPT,2022,32.54,7.0,43505,99273
+Org_676,Finance,Medium,623,Midjourney,2024,26.28,5.6,190489,362359
+Org_677,Education,Large,3671,GitHub Copilot,2025,42.51,8.3,895391,2195540
+Org_678,Finance,Small,100,Gemini,2025,32.26,6.1,37247,82971
+Org_679,Finance,Medium,733,ChatGPT,2022,44.88,6.7,104786,261616
+Org_680,Manufacturing,Medium,275,Claude,2024,15.32,8.1,162752,248406
+Org_681,IT,Medium,990,GitHub Copilot,2021,28.03,7.0,96806,163028
+Org_682,Education,Large,3971,GitHub Copilot,2022,39.49,7.4,687918,1486037
+Org_683,Education,Medium,917,Gemini,2025,19.26,8.8,149352,302647
+Org_684,Education,Large,9307,GitHub Copilot,2023,42.83,4.5,762634,864209
+Org_685,Finance,Large,7548,Claude,2025,19.21,5.7,763457,1830044
+Org_686,IT,Large,7197,GitHub Copilot,2022,21.05,6.5,910386,1502185
+Org_687,IT,Medium,386,Midjourney,2024,29.11,7.5,186949,348076
+Org_688,Healthcare,Large,5922,Claude,2024,29.62,7.4,755710,1227734
+Org_689,Finance,Small,193,ChatGPT,2022,28.16,5.0,21848,30947
+Org_690,Finance,Large,9711,Claude,2025,21.65,4.6,661595,774584
+Org_691,Finance,Medium,374,Midjourney,2025,5.0,6.0,131326,241891
+Org_692,Manufacturing,Medium,986,Gemini,2022,26.25,5.3,72692,157321
+Org_693,Manufacturing,Medium,484,Claude,2022,21.94,6.5,91743,122918
+Org_694,Education,Small,119,Claude,2024,16.54,6.0,48041,65855
+Org_695,Retail,Medium,420,Claude,2023,17.36,4.7,194933,280068
+Org_696,Manufacturing,Small,98,ChatGPT,2025,19.07,8.0,46347,57833
+Org_697,Manufacturing,Large,7781,GitHub Copilot,2024,32.46,4.7,700201,1548386
+Org_698,Finance,Large,6308,Gemini,2024,5.0,9.9,986719,1941020
+Org_699,IT,Small,135,Midjourney,2023,45.4,7.0,45975,63543
+Org_700,Manufacturing,Medium,444,ChatGPT,2023,41.06,5.7,153306,288010
+Org_701,Healthcare,Small,23,Gemini,2024,13.31,6.8,22755,31242
+Org_702,Manufacturing,Medium,758,Claude,2022,31.6,8.6,148071,268940
+Org_703,Education,Large,7553,ChatGPT,2023,36.84,5.9,233783,501677
+Org_704,Retail,Small,61,GitHub Copilot,2023,29.45,7.9,39028,76041
+Org_705,Finance,Medium,667,GitHub Copilot,2025,33.67,6.5,71067,80943
+Org_706,IT,Large,9713,Gemini,2021,17.65,5.6,286803,509304
+Org_707,Retail,Medium,777,GitHub Copilot,2023,17.2,5.8,76270,169909
+Org_708,Finance,Large,8452,Claude,2025,31.89,7.6,756371,1429153
+Org_709,Healthcare,Small,43,ChatGPT,2023,42.16,4.8,26153,62353
+Org_710,Manufacturing,Small,95,GitHub Copilot,2022,31.67,9.1,18731,39664
+Org_711,Retail,Medium,838,Midjourney,2024,31.11,8.1,78835,154538
+Org_712,IT,Medium,493,Claude,2023,31.52,4.0,59615,83761
+Org_713,Manufacturing,Medium,651,Gemini,2023,28.37,4.3,122684,278758
+Org_714,Retail,Medium,516,GitHub Copilot,2023,19.48,4.8,56638,101866
+Org_715,Healthcare,Small,24,Gemini,2021,45.35,8.7,42710,100269
+Org_716,IT,Medium,444,Gemini,2025,23.43,6.1,160674,210081
+Org_717,Manufacturing,Medium,389,ChatGPT,2024,36.08,4.5,90542,147761
+Org_718,Manufacturing,Medium,707,Claude,2022,57.66,6.3,75216,115899
+Org_719,Manufacturing,Small,106,Midjourney,2021,22.04,4.4,33179,63564
+Org_720,Retail,Medium,392,Claude,2023,28.16,6.9,74704,124291
+Org_721,Healthcare,Large,8493,Gemini,2024,20.14,8.4,686084,1310344
+Org_722,Finance,Large,8371,Gemini,2024,44.19,5.5,803814,1866458
+Org_723,IT,Small,38,Gemini,2025,18.18,4.2,22883,39364
+Org_724,Healthcare,Medium,242,ChatGPT,2022,34.49,4.8,67241,84136
+Org_725,Finance,Large,1298,Midjourney,2023,36.73,9.0,763634,1466041
+Org_726,Finance,Medium,638,Midjourney,2022,42.02,7.8,110197,201935
+Org_727,Healthcare,Large,4346,ChatGPT,2024,21.62,7.7,672295,1252271
+Org_728,IT,Medium,251,GitHub Copilot,2025,19.21,6.2,138422,242605
+Org_729,Manufacturing,Large,8833,GitHub Copilot,2025,34.62,7.2,626583,1499883
+Org_730,Retail,Medium,468,GitHub Copilot,2025,28.3,8.2,65989,130616
+Org_731,Retail,Small,68,Gemini,2024,20.22,7.3,32052,40662
+Org_732,Finance,Large,8707,ChatGPT,2024,15.49,6.1,610520,724596
+Org_733,Education,Medium,666,Midjourney,2021,20.22,4.7,85315,141707
+Org_734,Finance,Small,98,Midjourney,2024,29.98,9.9,19693,32339
+Org_735,Manufacturing,Large,7719,Gemini,2024,20.29,6.5,301894,606285
+Org_736,Healthcare,Medium,921,Midjourney,2022,7.57,5.1,133384,259102
+Org_737,IT,Small,144,Midjourney,2021,25.98,5.0,38979,51753
+Org_738,Healthcare,Medium,843,Gemini,2022,37.3,4.4,191382,370002
+Org_739,Healthcare,Medium,656,Gemini,2021,26.71,5.8,58947,71384
+Org_740,Finance,Large,6402,Claude,2024,24.86,4.9,986939,2299841
+Org_741,IT,Medium,554,Gemini,2022,49.73,4.5,186109,401471
+Org_742,Manufacturing,Large,4715,Claude,2022,16.14,5.9,844161,1673237
+Org_743,Healthcare,Large,7365,Claude,2023,20.35,8.1,636606,1480228
+Org_744,Retail,Large,3646,ChatGPT,2023,23.89,6.4,469355,542761
+Org_745,Retail,Large,3645,Gemini,2024,33.99,7.7,416486,1031023
+Org_746,Retail,Large,1404,Gemini,2020,25.11,5.4,627709,999412
+Org_747,Healthcare,Large,6811,Midjourney,2020,28.23,8.5,291321,500958
+Org_748,Manufacturing,Large,5675,Claude,2022,16.44,5.6,754081,1673831
+Org_749,Retail,Small,41,ChatGPT,2022,29.43,6.7,49116,82504
+Org_750,IT,Small,163,Midjourney,2025,37.34,5.0,46183,65057
+Org_751,Finance,Large,9456,Gemini,2020,34.34,8.7,891252,1633452
+Org_752,Retail,Medium,529,Midjourney,2024,34.27,6.2,156438,268849
+Org_753,Manufacturing,Small,130,GitHub Copilot,2022,21.41,7.6,10515,17422
+Org_754,Manufacturing,Large,1588,Claude,2025,38.14,9.3,681799,1550959
+Org_755,Manufacturing,Medium,539,GitHub Copilot,2024,40.56,10.0,103051,150593
+Org_756,Healthcare,Large,2016,GitHub Copilot,2025,57.51,8.7,515617,700923
+Org_757,Finance,Medium,607,ChatGPT,2024,10.39,7.5,168128,203109
+Org_758,Manufacturing,Small,31,Gemini,2025,24.36,8.8,35063,71976
+Org_759,Education,Medium,619,GitHub Copilot,2023,39.78,4.5,100494,204867
+Org_760,Education,Small,198,Claude,2023,8.94,8.6,35951,72411
+Org_761,Retail,Small,87,Claude,2022,45.3,5.9,24037,42943
+Org_762,Manufacturing,Medium,908,Claude,2021,36.65,5.1,173246,240967
+Org_763,Education,Small,64,Claude,2024,21.03,8.7,33706,52409
+Org_764,Retail,Large,7681,ChatGPT,2025,16.88,9.0,406251,725490
+Org_765,Finance,Small,70,GitHub Copilot,2025,28.3,5.2,25918,38402
+Org_766,IT,Medium,898,GitHub Copilot,2023,30.4,7.1,175180,237143
+Org_767,Healthcare,Small,56,ChatGPT,2024,27.5,7.3,20997,38371
+Org_768,IT,Medium,509,GitHub Copilot,2021,19.3,7.8,70923,176719
+Org_769,Retail,Medium,435,Gemini,2025,12.7,4.8,168248,234140
+Org_770,Healthcare,Medium,862,Midjourney,2023,48.83,8.4,182447,292085
+Org_771,Manufacturing,Medium,690,Gemini,2023,37.43,5.2,84650,160699
+Org_772,Healthcare,Medium,665,Midjourney,2021,17.79,9.0,152834,244039
+Org_773,Education,Medium,249,Claude,2020,19.58,8.5,118116,251473
+Org_774,Education,Small,131,ChatGPT,2022,42.26,6.6,17021,28709
+Org_775,Education,Large,9219,GitHub Copilot,2024,11.6,8.4,287980,445264
+Org_776,Healthcare,Small,85,Midjourney,2025,29.68,5.0,6378,7559
+Org_777,Finance,Small,38,ChatGPT,2024,8.1,7.1,27499,40856
+Org_778,Finance,Medium,707,Midjourney,2021,41.95,7.5,141873,280590
+Org_779,Manufacturing,Large,5818,GitHub Copilot,2024,19.69,6.0,499488,737402
+Org_780,Finance,Large,8915,ChatGPT,2025,21.38,6.3,437612,841610
+Org_781,IT,Medium,833,Gemini,2021,26.11,8.3,165721,302491
+Org_782,Finance,Large,7899,Claude,2024,33.99,4.1,302780,677201
+Org_783,Education,Medium,214,ChatGPT,2023,25.87,5.8,77856,87836
+Org_784,Education,Small,118,Midjourney,2024,37.85,8.2,8332,15751
+Org_785,Retail,Small,165,Claude,2025,21.66,4.8,5066,5921
+Org_786,Retail,Medium,565,ChatGPT,2021,36.74,4.8,109658,154498
+Org_787,Education,Large,8465,GitHub Copilot,2025,50.5,5.4,224648,486140
+Org_788,Retail,Medium,329,Midjourney,2024,30.01,9.6,92598,228456
+Org_789,Manufacturing,Large,2174,ChatGPT,2023,38.66,4.9,331870,813710
+Org_790,Healthcare,Small,149,GitHub Copilot,2025,27.17,6.6,5731,7963
+Org_791,Finance,Medium,781,Midjourney,2023,26.25,5.9,140436,200137
+Org_792,Finance,Small,78,Gemini,2020,25.49,7.1,24773,54419
+Org_793,Retail,Large,3263,GitHub Copilot,2025,23.72,8.6,607821,824168
+Org_794,Retail,Small,121,ChatGPT,2024,40.51,4.2,31928,37911
+Org_795,IT,Small,130,Claude,2023,26.41,7.3,46932,108874
+Org_796,Education,Large,7691,GitHub Copilot,2022,55.04,8.1,447941,920768
+Org_797,Healthcare,Large,7040,Midjourney,2021,18.6,5.5,796861,1224687
+Org_798,Healthcare,Medium,274,Midjourney,2025,37.18,4.8,165375,258043
+Org_799,Finance,Small,122,GitHub Copilot,2025,38.17,4.8,41736,80841
+Org_800,Retail,Large,2335,Claude,2024,25.74,7.7,917186,1225729
+Org_801,Retail,Medium,815,Midjourney,2025,35.39,7.8,84980,154286
+Org_802,Retail,Large,1382,GitHub Copilot,2024,39.78,8.8,373615,844888
+Org_803,Manufacturing,Large,1371,Claude,2025,22.35,8.2,512636,824408
+Org_804,Education,Small,36,Claude,2023,6.03,4.8,43737,73079
+Org_805,Finance,Large,5813,ChatGPT,2023,27.96,9.2,898614,1328855
+Org_806,Education,Large,5482,Claude,2024,24.18,9.2,692503,1709530
+Org_807,Manufacturing,Large,2907,ChatGPT,2024,29.39,6.1,618680,829176
+Org_808,Retail,Medium,281,Claude,2023,32.21,9.3,168686,214339
+Org_809,Manufacturing,Large,5645,Midjourney,2021,23.93,6.7,347032,670990
+Org_810,Healthcare,Large,5435,ChatGPT,2023,5.88,8.7,869986,2047146
+Org_811,Retail,Medium,505,Gemini,2024,18.0,5.5,187126,289894
+Org_812,Retail,Large,7468,Midjourney,2023,6.84,4.0,394152,748520
+Org_813,Education,Small,189,Gemini,2022,34.79,5.0,14637,31118
+Org_814,IT,Large,8104,ChatGPT,2022,36.8,8.2,567747,1031794
+Org_815,Healthcare,Small,101,GitHub Copilot,2021,38.66,5.4,24894,28623
+Org_816,Finance,Medium,781,Gemini,2021,40.01,5.4,121537,165998
+Org_817,Education,Large,3741,Gemini,2023,49.04,7.1,704910,1538435
+Org_818,Education,Large,1498,Midjourney,2020,23.95,7.2,629763,1564568
+Org_819,Education,Large,7391,ChatGPT,2023,13.01,8.7,319875,796165
+Org_820,Manufacturing,Small,71,Midjourney,2025,34.81,5.6,40289,63810
+Org_821,Healthcare,Large,6882,Claude,2023,16.61,6.6,826360,1246072
+Org_822,Manufacturing,Medium,810,Midjourney,2023,31.6,6.6,128282,303697
+Org_823,Education,Medium,612,Gemini,2025,42.25,6.0,91081,138196
+Org_824,Education,Large,5493,Claude,2024,31.33,9.1,355063,451461
+Org_825,Retail,Medium,767,Claude,2023,29.08,8.4,158047,211203
+Org_826,Retail,Medium,260,Gemini,2024,17.09,5.3,130859,284908
+Org_827,Healthcare,Medium,785,Midjourney,2024,30.54,7.0,59196,97711
+Org_828,Finance,Small,97,Claude,2023,32.43,7.6,37769,50406
+Org_829,Finance,Large,9316,Gemini,2023,34.78,6.5,339392,447346
+Org_830,Manufacturing,Large,4129,GitHub Copilot,2021,40.19,6.3,932256,1077441
+Org_831,Finance,Medium,609,Claude,2022,39.02,9.1,160776,335754
+Org_832,Retail,Large,2590,Claude,2025,40.6,7.0,733285,1198380
+Org_833,Finance,Small,97,Midjourney,2024,36.24,7.8,28110,65846
+Org_834,Manufacturing,Large,7430,GitHub Copilot,2025,43.0,4.4,510272,962683
+Org_835,Education,Medium,379,Gemini,2024,20.3,7.6,122635,157607
+Org_836,Finance,Small,93,Claude,2025,26.02,7.9,19130,38258
+Org_837,Manufacturing,Small,75,Claude,2024,46.06,8.3,8565,15072
+Org_838,Education,Large,2465,Claude,2022,31.62,4.7,797190,1337964
+Org_839,Manufacturing,Medium,800,Gemini,2024,26.34,7.7,136442,166718
+Org_840,Healthcare,Large,5136,Claude,2021,28.49,4.9,739767,1377122
+Org_841,Retail,Large,5823,Claude,2025,29.93,4.7,465864,736053
+Org_842,Healthcare,Small,36,Midjourney,2022,27.84,9.8,24385,52139
+Org_843,Manufacturing,Large,3708,Gemini,2023,25.75,9.3,672617,896410
+Org_844,Healthcare,Small,120,Midjourney,2024,27.79,5.2,40853,88395
+Org_845,Healthcare,Large,9926,Gemini,2020,56.78,7.5,494507,578300
+Org_846,IT,Small,98,GitHub Copilot,2024,30.65,5.3,31870,68248
+Org_847,Finance,Large,1153,GitHub Copilot,2023,41.08,5.1,735337,1378743
+Org_848,IT,Large,9096,Gemini,2023,34.18,5.9,257986,440426
+Org_849,IT,Large,9857,Gemini,2023,43.93,8.8,496124,1063072
+Org_850,Education,Large,7704,GitHub Copilot,2020,37.11,4.4,265679,459754
+Org_851,Education,Large,4228,Gemini,2024,26.11,8.0,766605,1428932
+Org_852,Finance,Medium,289,Claude,2024,53.52,6.9,102344,181726
+Org_853,Manufacturing,Small,82,ChatGPT,2021,6.35,7.7,16549,25146
+Org_854,Manufacturing,Large,5825,Gemini,2024,37.12,8.2,235709,406696
+Org_855,Retail,Large,8067,ChatGPT,2023,16.17,6.3,992879,1857601
+Org_856,Healthcare,Medium,795,Gemini,2025,18.19,9.6,188561,433270
+Org_857,IT,Medium,277,GitHub Copilot,2024,42.5,4.4,94387,119600
+Org_858,Healthcare,Large,1523,Claude,2025,16.67,7.7,805556,1330045
+Org_859,IT,Small,90,Claude,2024,16.47,9.1,27884,60996
+Org_860,Retail,Large,9634,ChatGPT,2024,33.87,5.6,365250,486403
+Org_861,Finance,Medium,734,GitHub Copilot,2025,31.55,8.5,156311,375151
+Org_862,Manufacturing,Large,3940,Midjourney,2023,11.66,9.7,229709,476570
+Org_863,Education,Small,57,Midjourney,2024,23.92,5.8,5882,10441
+Org_864,Education,Medium,715,Gemini,2022,33.63,8.2,78885,185986
+Org_865,IT,Medium,396,Gemini,2021,33.66,5.1,120268,244548
+Org_866,Manufacturing,Medium,646,Claude,2020,23.74,5.5,183639,273895
+Org_867,Manufacturing,Small,143,ChatGPT,2024,35.53,5.1,28004,45920
+Org_868,Manufacturing,Medium,452,Claude,2024,24.52,6.6,139044,309673
+Org_869,Retail,Large,3283,Gemini,2023,9.35,8.4,594485,1371765
+Org_870,Healthcare,Large,3603,GitHub Copilot,2025,30.28,4.2,633541,1187218
+Org_871,Education,Large,9433,Claude,2021,41.81,6.0,871813,1708632
+Org_872,IT,Medium,581,ChatGPT,2024,18.01,6.9,74503,160197
+Org_873,Healthcare,Small,115,GitHub Copilot,2025,26.78,9.0,19249,22843
+Org_874,Finance,Small,45,ChatGPT,2024,24.92,8.8,43968,51611
+Org_875,Finance,Medium,542,Gemini,2021,29.21,9.1,128353,159258
+Org_876,Education,Medium,428,Claude,2020,24.21,6.7,73548,139687
+Org_877,Finance,Large,8933,Midjourney,2023,27.24,4.6,634352,1555928
+Org_878,IT,Medium,385,Claude,2024,21.84,7.1,192226,395840
+Org_879,Manufacturing,Small,113,ChatGPT,2024,21.91,5.9,26271,44313
+Org_880,Manufacturing,Small,155,GitHub Copilot,2022,39.57,7.3,16673,31094
+Org_881,Finance,Small,32,GitHub Copilot,2023,30.83,4.6,8326,10319
+Org_882,Manufacturing,Large,2131,Claude,2025,14.8,6.3,997653,2068020
+Org_883,Manufacturing,Small,146,Claude,2024,31.24,4.8,46213,100415
+Org_884,Finance,Large,4044,Gemini,2024,37.1,5.2,483816,621124
+Org_885,Healthcare,Small,197,GitHub Copilot,2025,50.5,6.4,16618,25281
+Org_886,Healthcare,Medium,951,Midjourney,2022,27.14,6.2,138074,286381
+Org_887,Finance,Medium,620,Midjourney,2025,13.79,6.7,101660,130378
+Org_888,Education,Large,8311,Gemini,2023,26.74,9.9,256116,395716
+Org_889,Healthcare,Large,9075,Midjourney,2023,5.0,7.8,597595,1351396
+Org_890,IT,Large,9388,GitHub Copilot,2025,31.41,5.1,939945,1676264
+Org_891,Retail,Large,9761,Claude,2023,28.87,6.0,736119,1456378
+Org_892,IT,Large,4172,ChatGPT,2025,32.22,5.2,829112,1185483
+Org_893,IT,Large,3446,Midjourney,2021,15.0,5.8,357699,853444
+Org_894,Healthcare,Large,9167,Midjourney,2023,22.21,6.4,203681,452696
+Org_895,Healthcare,Small,28,Claude,2025,23.24,8.5,13963,24922
+Org_896,Retail,Medium,454,ChatGPT,2023,19.06,8.5,61332,92301
+Org_897,Manufacturing,Small,20,Midjourney,2022,18.42,4.3,45866,87517
+Org_898,Education,Small,186,Midjourney,2020,13.18,6.0,30494,51445
+Org_899,Education,Small,196,GitHub Copilot,2023,14.65,9.6,8815,17858
+Org_900,Healthcare,Large,6287,GitHub Copilot,2023,35.38,7.1,826614,1962300
+Org_901,Education,Large,7617,ChatGPT,2024,33.81,6.7,246015,372202
+Org_902,Retail,Medium,619,Claude,2025,33.12,8.1,179526,304763
+Org_903,Manufacturing,Small,95,GitHub Copilot,2024,39.9,5.2,17118,22627
+Org_904,Finance,Small,103,Gemini,2021,27.83,9.8,44828,67565
+Org_905,Retail,Small,56,ChatGPT,2025,20.49,4.8,38635,81192
+Org_906,Education,Medium,218,ChatGPT,2024,23.96,5.4,165267,268756
+Org_907,Retail,Small,88,ChatGPT,2020,10.2,4.3,49921,87087
+Org_908,Education,Small,121,Claude,2023,24.98,8.2,28956,35771
+Org_909,Education,Small,111,Gemini,2025,42.79,4.5,6168,13472
+Org_910,Manufacturing,Large,4645,GitHub Copilot,2024,36.54,7.6,754661,1313022
+Org_911,Finance,Medium,346,GitHub Copilot,2025,28.4,7.2,131515,216327
+Org_912,Education,Medium,461,ChatGPT,2025,39.37,8.7,129380,313555
+Org_913,Manufacturing,Large,5175,Midjourney,2025,5.0,5.7,765403,1123465
+Org_914,Healthcare,Large,2812,Claude,2024,35.71,5.7,884050,1473672
+Org_915,IT,Small,150,Midjourney,2025,19.54,8.4,38765,46109
+Org_916,Education,Large,7099,Gemini,2023,8.51,4.5,451063,1106539
+Org_917,Manufacturing,Small,134,ChatGPT,2023,41.38,7.8,15514,37663
+Org_918,IT,Medium,317,GitHub Copilot,2022,24.09,9.8,65123,143497
+Org_919,Manufacturing,Large,5378,Midjourney,2023,48.57,8.4,458470,1060921
+Org_920,Education,Large,9949,GitHub Copilot,2024,25.18,7.2,748387,924834
+Org_921,Healthcare,Small,151,GitHub Copilot,2025,29.94,7.6,46266,57613
+Org_922,Finance,Small,88,Claude,2024,41.79,9.9,13720,31454
+Org_923,Healthcare,Large,6398,ChatGPT,2023,21.49,8.7,381143,598463
+Org_924,IT,Large,1418,GitHub Copilot,2024,10.9,6.1,905611,1890631
+Org_925,Retail,Small,196,Gemini,2025,24.44,5.1,7939,14433
+Org_926,Healthcare,Small,131,ChatGPT,2025,25.88,7.4,21378,27689
+Org_927,Retail,Small,101,GitHub Copilot,2025,46.32,6.2,20867,36330
+Org_928,Retail,Large,7654,ChatGPT,2024,36.22,8.3,862727,2116638
+Org_929,Healthcare,Large,3594,ChatGPT,2024,49.59,9.0,542424,1271776
+Org_930,Education,Medium,393,Gemini,2024,31.44,8.1,153215,326510
+Org_931,Retail,Small,185,ChatGPT,2021,27.27,8.5,10470,18714
+Org_932,Healthcare,Large,7276,Claude,2025,32.43,4.0,992955,2447501
+Org_933,Healthcare,Large,7606,Midjourney,2024,41.59,7.6,691638,768322
+Org_934,Finance,Large,4557,Midjourney,2025,39.73,5.7,863969,1968355
+Org_935,Manufacturing,Medium,277,Gemini,2025,12.79,9.6,139941,340704
+Org_936,Finance,Small,86,Midjourney,2021,22.53,6.9,14484,26979
+Org_937,Healthcare,Medium,203,Claude,2021,20.07,8.6,78552,110321
+Org_938,Finance,Small,40,Midjourney,2023,39.34,9.9,5954,10036
+Org_939,Retail,Large,8160,Gemini,2023,21.13,5.6,638744,1398095
+Org_940,Manufacturing,Large,4395,GitHub Copilot,2025,43.6,4.1,213731,328711
+Org_941,Retail,Medium,554,ChatGPT,2024,23.82,9.2,183653,280205
+Org_942,Finance,Large,3486,GitHub Copilot,2025,24.77,8.9,284363,602231
+Org_943,Retail,Medium,283,GitHub Copilot,2025,41.4,6.7,170871,291112
+Org_944,Education,Small,147,Claude,2023,54.99,6.8,30092,54935
+Org_945,Education,Small,145,Midjourney,2025,49.48,7.1,16975,19316
+Org_946,Education,Small,90,Gemini,2023,40.25,9.6,48454,87497
+Org_947,Finance,Large,3785,Gemini,2023,19.0,9.6,313034,416014
+Org_948,Education,Small,170,Midjourney,2021,28.92,8.7,24073,56803
+Org_949,Education,Medium,800,Midjourney,2023,29.99,8.6,96705,177955
+Org_950,Retail,Small,37,GitHub Copilot,2024,24.32,4.5,12645,22746
+Org_951,Healthcare,Medium,849,Gemini,2023,27.19,7.5,123313,287070
+Org_952,Finance,Large,2932,ChatGPT,2024,28.02,4.6,809654,1384460
+Org_953,Education,Medium,942,ChatGPT,2025,23.33,4.7,107241,156622
+Org_954,Retail,Large,1564,Gemini,2022,31.98,6.3,618779,1209419
+Org_955,IT,Medium,423,GitHub Copilot,2025,33.24,5.7,87500,117148
+Org_956,Manufacturing,Large,8206,Midjourney,2025,24.67,5.6,533887,1037903
+Org_957,IT,Small,30,Gemini,2020,40.8,9.0,22509,55503
+Org_958,Retail,Large,5042,Midjourney,2024,39.43,9.3,487166,623421
+Org_959,Healthcare,Medium,870,Gemini,2023,37.6,7.5,126478,203276
+Org_960,Finance,Medium,409,ChatGPT,2021,38.08,7.6,149273,175715
+Org_961,Healthcare,Small,21,ChatGPT,2024,23.06,9.6,24950,61416
+Org_962,Manufacturing,Medium,888,Gemini,2025,14.7,8.0,121356,260838
+Org_963,Manufacturing,Large,8397,Gemini,2023,28.34,8.0,209472,233914
+Org_964,Education,Small,22,Midjourney,2025,25.3,9.3,14079,34863
+Org_965,Finance,Medium,946,GitHub Copilot,2021,39.96,5.5,136373,310163
+Org_966,Education,Large,5551,Claude,2022,35.29,7.3,673919,1056343
+Org_967,Finance,Medium,399,Claude,2025,35.52,4.3,99756,186051
+Org_968,Retail,Medium,470,GitHub Copilot,2024,36.8,8.5,74143,171823
+Org_969,IT,Large,8532,GitHub Copilot,2022,31.24,9.0,905359,1661897
+Org_970,Finance,Small,195,Claude,2024,23.74,8.9,15464,28730
+Org_971,Finance,Medium,448,ChatGPT,2024,37.47,7.5,94678,195527
+Org_972,Retail,Small,124,Gemini,2021,43.99,4.8,15776,34122
+Org_973,IT,Medium,328,Midjourney,2021,8.56,6.0,146261,279396
+Org_974,Retail,Large,1564,GitHub Copilot,2025,31.76,8.2,684353,806646
+Org_975,Finance,Small,56,Gemini,2024,29.02,4.1,43784,50185
+Org_976,Finance,Small,124,GitHub Copilot,2022,32.21,8.3,14546,20434
+Org_977,Retail,Small,64,GitHub Copilot,2025,25.39,8.6,44451,62729
+Org_978,Retail,Large,3063,Claude,2025,26.27,5.5,444942,587085
+Org_979,Finance,Medium,960,GitHub Copilot,2023,29.75,9.5,114994,153124
+Org_980,Education,Small,94,Claude,2023,42.76,5.8,49009,57714
+Org_981,Healthcare,Small,78,Midjourney,2024,35.54,5.2,21559,43531
+Org_982,Education,Small,146,Midjourney,2022,26.48,9.8,15737,32379
+Org_983,Manufacturing,Small,51,Midjourney,2024,20.72,5.8,23467,30540
+Org_984,IT,Small,99,ChatGPT,2023,24.09,8.8,25786,33069
+Org_985,IT,Medium,818,Gemini,2025,31.61,4.5,192003,432018
+Org_986,Manufacturing,Small,197,ChatGPT,2021,42.17,6.2,39881,81675
+Org_987,Manufacturing,Small,147,ChatGPT,2021,27.39,7.1,42960,72804
+Org_988,Healthcare,Large,7704,GitHub Copilot,2022,17.61,8.2,650400,1612888
+Org_989,Finance,Small,122,Midjourney,2022,26.66,5.3,45164,101345
+Org_990,Manufacturing,Large,6507,Midjourney,2024,35.75,6.6,289846,350604
+Org_991,Education,Large,9697,GitHub Copilot,2025,33.7,5.5,826787,1923072
+Org_992,IT,Small,81,Midjourney,2025,35.84,7.8,7509,11934
+Org_993,Retail,Medium,589,ChatGPT,2025,29.21,7.8,73723,173794
+Org_994,IT,Large,1074,Claude,2024,27.0,6.4,613757,824610
+Org_995,Retail,Medium,301,ChatGPT,2020,27.56,8.9,143144,318881
+Org_996,Retail,Large,9652,GitHub Copilot,2023,34.34,8.0,700827,1003245
+Org_997,Healthcare,Small,27,ChatGPT,2024,26.06,9.9,48241,64122
+Org_998,Retail,Small,145,Gemini,2024,33.2,5.3,30628,68678
+Org_999,Healthcare,Large,3744,Midjourney,2023,27.99,6.5,876419,1474684
+Org_1000,Finance,Medium,340,Claude,2025,21.88,4.8,165158,246757
